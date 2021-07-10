@@ -1,2 +1,3 @@
 rootProject.name = "camerax-utility"
 include ':app'
+include ':library'
